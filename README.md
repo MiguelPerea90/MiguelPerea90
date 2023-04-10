@@ -9,7 +9,7 @@
 
 - 👯 Colabore en **proyectos increibles**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-jose-perea.vercel.app/](https://portfolio-jose-perea.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-jose-perea.vercel.app](https://portfolio-jose-perea.vercel.app)
 
 - 💬 Preguame sobre **JavaScript,React, Redux, Express, HMTL, Node JS, CSS**
 
